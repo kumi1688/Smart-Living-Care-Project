@@ -1,3 +1,9 @@
 [submodule "hue_team4"]
 	path = hue_team4
 	url = https://github.com/kumi1688/hue_team4.git
+[submodule "team4_weather_backend"]
+	path = team4_weather_backend
+	url = https://github.com/kumi1688/team4_weather_backend.git
+[submodule "team4_clova"]
+	path = team4_clova
+	url = https://github.com/kumi1688/team4_clova.git
