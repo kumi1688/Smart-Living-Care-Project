@@ -7,3 +7,6 @@
 [submodule "team4_clova"]
 	path = team4_clova
 	url = https://github.com/kumi1688/team4_clova.git
+[submodule "team4"]
+	path = team4
+	url = https://github.com/kumi1688/team4.git
